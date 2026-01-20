@@ -1,0 +1,17 @@
+@charset "utf-8";
+body {
+    background-color: #00882D;
+}
+h1 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+table {
+    background-image: -webkit-linear-gradient(270deg,rgba(3,179,193,1.00) 0%,rgba(0,141,192,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(3,179,193,1.00) 0%,rgba(0,141,192,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(3,179,193,1.00) 0%,rgba(0,141,192,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(3,179,193,1.00) 0%,rgba(0,141,192,1.00) 100%);
+    background-color: #0084B4;
+}
+a {
+    color: #00FF54;
+}
